@@ -1,0 +1,14 @@
+C:\Users\safak\Desktop\C#-nesne-tabanli\ToDoList Projesi\bin\Debug\net7.0\ToDoList Projesi.exe
+C:\Users\safak\Desktop\C#-nesne-tabanli\ToDoList Projesi\bin\Debug\net7.0\ToDoList Projesi.deps.json
+C:\Users\safak\Desktop\C#-nesne-tabanli\ToDoList Projesi\bin\Debug\net7.0\ToDoList Projesi.runtimeconfig.json
+C:\Users\safak\Desktop\C#-nesne-tabanli\ToDoList Projesi\bin\Debug\net7.0\ToDoList Projesi.dll
+C:\Users\safak\Desktop\C#-nesne-tabanli\ToDoList Projesi\bin\Debug\net7.0\ToDoList Projesi.pdb
+C:\Users\safak\Desktop\C#-nesne-tabanli\ToDoList Projesi\obj\Debug\net7.0\ToDoList Projesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\safak\Desktop\C#-nesne-tabanli\ToDoList Projesi\obj\Debug\net7.0\ToDoList Projesi.AssemblyInfoInputs.cache
+C:\Users\safak\Desktop\C#-nesne-tabanli\ToDoList Projesi\obj\Debug\net7.0\ToDoList Projesi.AssemblyInfo.cs
+C:\Users\safak\Desktop\C#-nesne-tabanli\ToDoList Projesi\obj\Debug\net7.0\ToDoList Projesi.csproj.CoreCompileInputs.cache
+C:\Users\safak\Desktop\C#-nesne-tabanli\ToDoList Projesi\obj\Debug\net7.0\ToDoList Projesi.dll
+C:\Users\safak\Desktop\C#-nesne-tabanli\ToDoList Projesi\obj\Debug\net7.0\refint\ToDoList Projesi.dll
+C:\Users\safak\Desktop\C#-nesne-tabanli\ToDoList Projesi\obj\Debug\net7.0\ToDoList Projesi.pdb
+C:\Users\safak\Desktop\C#-nesne-tabanli\ToDoList Projesi\obj\Debug\net7.0\ToDoList Projesi.genruntimeconfig.cache
+C:\Users\safak\Desktop\C#-nesne-tabanli\ToDoList Projesi\obj\Debug\net7.0\ref\ToDoList Projesi.dll
